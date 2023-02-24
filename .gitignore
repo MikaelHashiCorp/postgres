@@ -43,3 +43,6 @@ lib*.pc
 /Release/
 /tmp_install/
 /portlock/
+src/interfaces/.DS_Store
+src/test/regress/regression.diffs
+*.out

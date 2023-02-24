@@ -46,3 +46,4 @@ lib*.pc
 src/interfaces/.DS_Store
 src/test/regress/regression.diffs
 *.out
+logfile
